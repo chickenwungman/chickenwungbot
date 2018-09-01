@@ -80,4 +80,4 @@ async def warn(ctx, user: discord.Member):
     await client.say("{} has been warned!".format(user.name))
     await client.warn(user)
 
-client.run("NDgxNjQwODE1MDczMDM0MjYy.DmL19w.PG1Ngu355A4ZQWJuNNRiXCZE4u8")
+client.run("")
